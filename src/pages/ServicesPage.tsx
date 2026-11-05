@@ -7,7 +7,7 @@ export default function ServicesPage() {
   useSeo({
     title: 'Plumbing Services in Pittsboro, NC | Garrison Plumbing',
     description:
-      'Full-service residential and commercial plumbing from Garrison Plumbing in Pittsboro, NC — plumbing repair, drain cleaning, leak detection, water heaters, sewer lines, and new construction. Call 919-240-9153.',
+      'Full-service residential and commercial plumbing from Garrison Plumbing in Pittsboro, NC — plumbing repair, drain cleaning, leak detection, water heaters, sewer lines, and new construction. Call 919-351-1356.',
   });
 
   return (

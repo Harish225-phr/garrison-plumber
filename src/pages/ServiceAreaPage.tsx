@@ -41,7 +41,7 @@ export default function ServiceAreaPage() {
       '@context': 'https://schema.org',
       '@type': 'Plumber',
       name: BUSINESS.name,
-      telephone: '+19192409153',
+      telephone: '+19193511356',
       url: `${SITE_ORIGIN}${path}`,
       address: {
         '@type': 'PostalAddress',

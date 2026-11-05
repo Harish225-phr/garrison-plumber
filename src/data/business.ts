@@ -1,5 +1,5 @@
-export const PHONE_DISPLAY = '919-240-9153';
-export const PHONE_TEL = 'tel:+19192409153';
+export const PHONE_DISPLAY = '919-351-1356';
+export const PHONE_TEL = 'tel:+19193511356';
 
 export const BUSINESS = {
   name: 'Garrison Plumbing',

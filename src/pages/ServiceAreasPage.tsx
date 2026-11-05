@@ -7,7 +7,7 @@ export default function ServiceAreasPage() {
   useSeo({
     title: 'Plumbing Service Areas | Garrison Plumbing — Pittsboro, NC',
     description:
-      'Garrison Plumbing serves Pittsboro, Siler City, Apex, Cary, Raleigh, and Chapel Hill, NC with residential and commercial plumbing. Call 919-240-9153 to confirm availability.',
+      'Garrison Plumbing serves Pittsboro, Siler City, Apex, Cary, Raleigh, and Chapel Hill, NC with residential and commercial plumbing. Call 919-351-1356 to confirm availability.',
   });
 
   return (

@@ -46,7 +46,7 @@ export default function ServicePage() {
       provider: {
         '@type': 'Plumber',
         name: BUSINESS.name,
-        telephone: '+19192409153',
+        telephone: '+19193511356',
         address: {
           '@type': 'PostalAddress',
           streetAddress: BUSINESS.address,

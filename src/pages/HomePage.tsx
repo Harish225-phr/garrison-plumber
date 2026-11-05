@@ -16,12 +16,12 @@ export default function HomePage() {
   useSeo({
     title: `Garrison Plumbing | Pittsboro, NC Plumber — Call ${PHONE_DISPLAY}`,
     description:
-      'Garrison Plumbing is a full-service residential and commercial plumber based in Pittsboro, NC, serving Chatham County and the surrounding area. Call 919-240-9153 for plumbing repair, drain cleaning, water heaters, and more.',
+      'Garrison Plumbing is a full-service residential and commercial plumber based in Pittsboro, NC, serving Chatham County and the surrounding area. Call 919-351-1356 for plumbing repair, drain cleaning, water heaters, and more.',
     jsonLd: {
       '@context': 'https://schema.org',
       '@type': 'Plumber',
       name: BUSINESS.name,
-      telephone: '+19192409153',
+      telephone: '+19193511356',
       url: SITE_ORIGIN,
       image: `${SITE_ORIGIN}/favicon.svg`,
       address: {
